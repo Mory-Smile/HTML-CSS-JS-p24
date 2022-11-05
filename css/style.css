@@ -220,7 +220,7 @@ button i {
 /* Media Starts */
 
 /* Phone Media */
-@media (max-width: 380px) {
+@media (max-width: 415px) {
   .form-control {
     flex-direction: column;
   }
